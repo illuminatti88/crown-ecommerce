@@ -1,4 +1,4 @@
-## Lesson-2
+## Crown Ecommerce
 
 Creating our first component, homepage and adding scss to help us with writing our styles
 
